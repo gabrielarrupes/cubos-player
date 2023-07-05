@@ -52,3 +52,8 @@
 .fsize-32 {
     font-size: 32px;
 }
+
+.container-line {
+    width: 100vw;
+    height: 1px;
+}

@@ -1,0 +1,47 @@
+.main-container {
+    display: flex;
+    flex-direction: column; 
+    
+    padding: 90px 0 48px 0px;
+      
+}
+
+.main-title {
+    margin: 0px 0px 30px 152px;
+}
+
+.main-line {
+    margin: 0px 0px 12px 158px;
+}
+
+.main-line {
+    width: 1120px;
+    height: 1px;
+}
+
+.main-playlist {
+    display: flex;
+    justify-content: center;
+    gap: 27px;
+    
+}
+
+.main-playlist-music {
+    width: 260px;
+    height: 436px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+
+}
+
+.main-music-image {
+    height: 260px;
+    width: 260px;
+
+}
+
+.main-music-description {
+    text-align: justify;
+}

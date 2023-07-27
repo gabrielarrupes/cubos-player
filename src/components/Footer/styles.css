@@ -1,0 +1,27 @@
+.footer-container {
+    height: 132px;
+    border-top: 2px solid rgba(0, 0, 0, 0.21);
+    background: linear-gradient(180deg, #383535 0%, rgba(133, 130, 130, 0.00) 100%);
+    display: flex;
+    gap: 150px;
+}
+
+.footer-menu-names {
+    width: 221px;
+    padding: 23px 0px 0px 24px;
+    
+}
+
+.footer-menu-container {
+    width: 560px;
+    display: flex;
+    gap: 40px;
+    padding-top: 16px;
+    justify-content: center;
+    background-color: linear-gradient(180deg, #383535 0%, rgba(133, 130, 130, 0.00) 100%);
+}
+
+.btn-music-player {
+    background-color: inherit;
+    border: none;
+}

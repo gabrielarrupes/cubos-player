@@ -34,6 +34,8 @@
     flex-direction: column;
     gap: 3px;
 
+    cursor: pointer;
+
 }
 
 .main-music-image {
